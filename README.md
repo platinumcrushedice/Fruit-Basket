@@ -3,3 +3,5 @@
 Banana
 Strawberry
 Pineapple
+
+Added Watermelon
